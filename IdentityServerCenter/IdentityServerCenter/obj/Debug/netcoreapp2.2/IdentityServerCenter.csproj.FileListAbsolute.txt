@@ -1,0 +1,16 @@
+D:\田博文\测试\StudyTest\IdentityServerSample\IdentityServerCenter\IdentityServerCenter\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\田博文\测试\StudyTest\IdentityServerSample\IdentityServerCenter\IdentityServerCenter\bin\Debug\netcoreapp2.2\appsettings.json
+D:\田博文\测试\StudyTest\IdentityServerSample\IdentityServerCenter\IdentityServerCenter\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\田博文\测试\StudyTest\IdentityServerSample\IdentityServerCenter\IdentityServerCenter\bin\Debug\netcoreapp2.2\IdentityServerCenter.deps.json
+D:\田博文\测试\StudyTest\IdentityServerSample\IdentityServerCenter\IdentityServerCenter\bin\Debug\netcoreapp2.2\IdentityServerCenter.runtimeconfig.json
+D:\田博文\测试\StudyTest\IdentityServerSample\IdentityServerCenter\IdentityServerCenter\bin\Debug\netcoreapp2.2\IdentityServerCenter.runtimeconfig.dev.json
+D:\田博文\测试\StudyTest\IdentityServerSample\IdentityServerCenter\IdentityServerCenter\bin\Debug\netcoreapp2.2\IdentityServerCenter.dll
+D:\田博文\测试\StudyTest\IdentityServerSample\IdentityServerCenter\IdentityServerCenter\obj\Debug\netcoreapp2.2\IdentityServerCenter.csprojAssemblyReference.cache
+D:\田博文\测试\StudyTest\IdentityServerSample\IdentityServerCenter\IdentityServerCenter\obj\Debug\netcoreapp2.2\IdentityServerCenter.RazorAssemblyInfo.cache
+D:\田博文\测试\StudyTest\IdentityServerSample\IdentityServerCenter\IdentityServerCenter\obj\Debug\netcoreapp2.2\IdentityServerCenter.RazorAssemblyInfo.cs
+D:\田博文\测试\StudyTest\IdentityServerSample\IdentityServerCenter\IdentityServerCenter\obj\Debug\netcoreapp2.2\IdentityServerCenter.AssemblyInfoInputs.cache
+D:\田博文\测试\StudyTest\IdentityServerSample\IdentityServerCenter\IdentityServerCenter\obj\Debug\netcoreapp2.2\IdentityServerCenter.AssemblyInfo.cs
+D:\田博文\测试\StudyTest\IdentityServerSample\IdentityServerCenter\IdentityServerCenter\obj\Debug\netcoreapp2.2\IdentityServerCenter.RazorTargetAssemblyInfo.cache
+D:\田博文\测试\StudyTest\IdentityServerSample\IdentityServerCenter\IdentityServerCenter\bin\Debug\netcoreapp2.2\IdentityServerCenter.pdb
+D:\田博文\测试\StudyTest\IdentityServerSample\IdentityServerCenter\IdentityServerCenter\obj\Debug\netcoreapp2.2\IdentityServerCenter.dll
+D:\田博文\测试\StudyTest\IdentityServerSample\IdentityServerCenter\IdentityServerCenter\obj\Debug\netcoreapp2.2\IdentityServerCenter.pdb
