@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29411.138
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServerCenter", "IdentityServerCenter\IdentityServerCenter.csproj", "{6F1B38EF-C79A-426D-8EC1-E8703B7572DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityServerCenter", "IdentityServerCenter\IdentityServerCenter.csproj", "{6F1B38EF-C79A-426D-8EC1-E8703B7572DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientCredentialsApi", "..\ClientCredentialsApi\ClientCredentialsApi.csproj", "{BC6D746B-EBE6-4B7C-914F-9392353EE29D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClientCredentialsApi", "..\ClientCredentialsApi\ClientCredentialsApi.csproj", "{BC6D746B-EBE6-4B7C-914F-9392353EE29D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdPartyDemo", "ThirdPartyDemo\ThirdPartyDemo.csproj", "{BFEBF723-D0EE-4DA8-ABF1-6EED362A3474}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{BC6D746B-EBE6-4B7C-914F-9392353EE29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC6D746B-EBE6-4B7C-914F-9392353EE29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC6D746B-EBE6-4B7C-914F-9392353EE29D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFEBF723-D0EE-4DA8-ABF1-6EED362A3474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFEBF723-D0EE-4DA8-ABF1-6EED362A3474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFEBF723-D0EE-4DA8-ABF1-6EED362A3474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFEBF723-D0EE-4DA8-ABF1-6EED362A3474}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

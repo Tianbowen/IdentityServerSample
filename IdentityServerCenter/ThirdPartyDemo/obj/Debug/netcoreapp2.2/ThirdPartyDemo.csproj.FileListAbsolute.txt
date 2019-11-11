@@ -1,0 +1,10 @@
+D:\田博文\测试\StudyTest\IdentityServerSample\IdentityServerCenter\ThirdPartyDemo\bin\Debug\netcoreapp2.2\ThirdPartyDemo.deps.json
+D:\田博文\测试\StudyTest\IdentityServerSample\IdentityServerCenter\ThirdPartyDemo\bin\Debug\netcoreapp2.2\ThirdPartyDemo.runtimeconfig.json
+D:\田博文\测试\StudyTest\IdentityServerSample\IdentityServerCenter\ThirdPartyDemo\bin\Debug\netcoreapp2.2\ThirdPartyDemo.runtimeconfig.dev.json
+D:\田博文\测试\StudyTest\IdentityServerSample\IdentityServerCenter\ThirdPartyDemo\bin\Debug\netcoreapp2.2\ThirdPartyDemo.dll
+D:\田博文\测试\StudyTest\IdentityServerSample\IdentityServerCenter\ThirdPartyDemo\bin\Debug\netcoreapp2.2\ThirdPartyDemo.pdb
+D:\田博文\测试\StudyTest\IdentityServerSample\IdentityServerCenter\ThirdPartyDemo\obj\Debug\netcoreapp2.2\ThirdPartyDemo.AssemblyInfoInputs.cache
+D:\田博文\测试\StudyTest\IdentityServerSample\IdentityServerCenter\ThirdPartyDemo\obj\Debug\netcoreapp2.2\ThirdPartyDemo.AssemblyInfo.cs
+D:\田博文\测试\StudyTest\IdentityServerSample\IdentityServerCenter\ThirdPartyDemo\obj\Debug\netcoreapp2.2\ThirdPartyDemo.dll
+D:\田博文\测试\StudyTest\IdentityServerSample\IdentityServerCenter\ThirdPartyDemo\obj\Debug\netcoreapp2.2\ThirdPartyDemo.pdb
+D:\田博文\测试\StudyTest\IdentityServerSample\IdentityServerCenter\ThirdPartyDemo\obj\Debug\netcoreapp2.2\ThirdPartyDemo.csprojAssemblyReference.cache
